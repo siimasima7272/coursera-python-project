@@ -1,2 +1,3 @@
 # python
-my personal and my coursera project codes
+my personal and my Coursera project codes
+
