@@ -1,3 +1,3 @@
 # python
-my personal and my Coursera project codes
+I took participate in 'Python Data Structures' course,which is one of the Coursera course, and I'm going to put my own solution in this term's exams
 
